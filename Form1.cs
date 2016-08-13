@@ -29,7 +29,7 @@ namespace PravigitaBrowser
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This is version 1 of the Pravigita Browser - This web browser was made by Kurt A. Phoenix");
+            MessageBox.Show("This is v1 of the Pravigita Browser. This web browser was made by Kurt A. Phoenix.");
         }
 
         /// <summary>
